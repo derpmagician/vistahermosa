@@ -2125,7 +2125,7 @@ section {
   }
 }
 
-/*  
+/*
     ----------------------------------
     25. Contact
     ----------------------------------
@@ -2136,7 +2136,16 @@ section {
 }
 
 .contact .map {
-  height: 400px;
+  height: 800px;
+}
+/* .map {
+  width: 100px;
+  height: 480px;
+} */
+
+iframe {
+  width: 100%;
+  height: 100vh;
 }
 
 .contact .contact-block {
