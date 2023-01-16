@@ -107,6 +107,10 @@ body a, body .btn {
   transition: all 0.3s;
 }
 
+.sombreado {
+  background:rgba(50,50,50,0.5);
+}
+
 body input, body textarea, body select {
   /* iPad fix */
   -webkit-appearance: none;
