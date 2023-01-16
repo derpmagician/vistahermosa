@@ -114,6 +114,7 @@ body a, body .btn {
 body input, body textarea, body select {
   /* iPad fix */
   -webkit-appearance: none;
+  appearance: none;
   /*disable shaddow nav ipad*/
   -moz-appearance: none;
   /*disable shaddow nav ipad*/
